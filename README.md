@@ -113,7 +113,8 @@ The application displays a notification in the Android notification panel after 
 ## screenshots 
 
 <img width="1906" height="985" alt="Screenshot 2026-08-27 014521" src="https://github.com/user-attachments/assets/7afa68cf-32b2-4dcb-ad12-0bbc391b59a7" />
-<img width="1906" height="985" alt="Screenshot 2026-08-27 014521" src="https://github.com/user-attachments/assets/dc1f029f-704c-4d39-bde0-2802d6693609" />
+<img width="1905" height="978" alt="Screenshot 2026-08-27 014603" src="https://github.com/user-attachments/assets/fd0a1955-302e-46a8-aa9a-e4f277cafd05" />
+
 <img width="1882" height="961" alt="Screenshot 2026-08-27 014631" src="https://github.com/user-attachments/assets/d67da4dc-8f11-49e3-94f8-b4020c0c5fdc" />
 
 
